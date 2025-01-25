@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the code four our application AskareAppi. The website is your personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress.
+This is the code for our application AskareAppi. The website is your personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress.
 
 The instructions below show you how you can use the application. After the website is running sign up and login, and get started by clicking on
 the "Add New Task" button in the sidebar.
@@ -17,3 +17,5 @@ To use this template:
 4. run npm install cors to make sure it works
 5. run docker-compose up to view the website locally.
 6. now it should run on your computer
+
+© Eveliina Ahonen and Salla Lyytikäinen

@@ -39,7 +39,7 @@ services:
     volumes:
       - ./frontend/:/app
     ports:
-      - "3000:3000"
+      - "3002:3000"
 
 volumes:
   db_data:
