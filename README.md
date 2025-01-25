@@ -13,9 +13,9 @@ To use this template:
 
 1. Clone the repository to your local machine,
 2. Add an env file in the backend and you database crendentials in it
-3. run npm install to install all the required dependencies, you may need to do it in all folders
-4. run npm install cors to make sure it works
-5. run docker-compose up to view the website locally.
-6. now it should run on your computer
+3. Run npm install to install all the required dependencies, you may need to do it in all folders
+4. Run npm install cors to make sure it works
+5. Run docker-compose up to view the website locally.
+6. Now it should run on your computer
 
 © Eveliina Ahonen and Salla Lyytikäinen
